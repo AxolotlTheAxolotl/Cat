@@ -1,0 +1,50 @@
+body{ 
+    font-family:'Franklin Gothic Medium';
+    background-color: rgb(219, 240, 186);
+}
+
+h1 {
+   text-align: center;
+}
+
+header {
+    background-color: cornflowerblue;
+    padding: 10px;
+    margin: 20px;
+}
+
+nav {
+    text-align: center;
+    font-family: 'Trebuchet MS';
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(176, 223, 195);
+    padding: 10px;
+}
+
+footer { 
+    background-color: steelblue;
+}
+
+footer p { 
+    color: rgb(109, 33, 33);
+    background-color: yellow;
+    width: 100%;
+    border: 5px solid rgb(163, 89, 89);
+}
+
+p img { 
+    border:3px solid slateblue;
+}
+
+main p a { 
+    border: 2px solid rgb(31, 30, 29);
+    padding: 4px;
+}
+
+table { 
+    border: 2px solid teal;
+}
+
+table td { 
+    border: 1px solid olive;
+}
